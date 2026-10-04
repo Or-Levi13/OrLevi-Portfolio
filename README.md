@@ -6,7 +6,7 @@ Sora and Plus Jakarta Sans.
 ## Files
 
 - `index.html` holds all the markup, styles and script.
-- `og.png` is the 1200×630 preview shown when the link is shared.
+- `og-card.png` is the 1200×630 preview shown when the link is shared.
 - `favicon.svg` is the tab icon.
 - `assets/or-cutout.webp` is the hero portrait with its background removed.
 - `assets/or.jpg` is a square crop of the same photo, used in the assistant's header.
