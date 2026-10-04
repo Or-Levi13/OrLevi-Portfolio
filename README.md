@@ -26,9 +26,5 @@ npx serve .
 Import this repository in Vercel and keep the defaults: framework preset "Other", no build
 command, output directory `.` (the repository root). Every push to `main` redeploys.
 
-Once the domain is known, make the share image absolute in `index.html`, because LinkedIn and
-most crawlers ignore a relative one:
-
-```html
-<meta property="og:image" content="https://your-domain/og-image.jpg" />
-```
+Live at https://orlevi-portfolio.vercel.app. If the domain changes, update the canonical link,
+`og:url` and `og:image` in `index.html`: LinkedIn and most crawlers ignore relative URLs.
