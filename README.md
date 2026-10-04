@@ -26,5 +26,5 @@ npx serve .
 Import this repository in Vercel and keep the defaults: framework preset "Other", no build
 command, output directory `.` (the repository root). Every push to `main` redeploys.
 
-Live at https://orlevi-portfolio.vercel.app. If the domain changes, update the canonical link,
+Live at https://or-levi.com. If the domain changes, update the canonical link,
 `og:url` and `og:image` in `index.html`: LinkedIn and most crawlers ignore relative URLs.
